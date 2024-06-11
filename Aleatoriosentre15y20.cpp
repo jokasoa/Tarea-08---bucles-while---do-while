@@ -1,3 +1,4 @@
+//FALTA ENUNCIADO
 #include <iostream>
 #include <cstdlib>  // para std::rand() y std::srand()
 #include <ctime>    // para std::time()
