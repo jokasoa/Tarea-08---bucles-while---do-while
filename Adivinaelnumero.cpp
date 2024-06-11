@@ -1,3 +1,5 @@
+//FALTA ENUNCIADO DEL EJERCICIO
+
 #include <iostream>
 #include <cstdlib>  // para std::rand() y std::srand()
 #include <ctime>    // para std::time()
